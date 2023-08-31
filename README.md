@@ -15,7 +15,6 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-
 Program to implement the linear regression using gradient descent.
 Developed by: Harini M D
 RegisterNumber: 212222230043
@@ -59,11 +58,7 @@ from sklearn.metrics import classification_report
 classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
 print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
-
-
 ```
-
-
 ## Output:
 
 ##  Placement Data:
@@ -98,7 +93,6 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 ## Prediction of LR:
 ![ml411](https://github.com/gokulvijayaramanuja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119577543/6d62f505-0a6c-42cb-9ab2-800e20f4858b)
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
